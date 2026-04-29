@@ -14,3 +14,5 @@ Ich nutze dieses Projekt, um:
 Kopiere dieses Repository einfach mit:
 ```bash
 git clone [https://github.com/DEIN-BENUTZERNAME/REPOSTORY-NAME.git](https://github.com/DEIN-BENUTZERNAME/REPOSTORY-NAME.git)
+
+Änderung auf lokaler Kopie
